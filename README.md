@@ -1,2 +1,2 @@
-# GitHub-page-Project
-This will be my GitHub page
+Welcome to Assignment 04
+This is my first GitHub Pages Project
